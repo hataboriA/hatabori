@@ -7,7 +7,6 @@ public class JankenBase {
 	private String[] hands = { G, T, P };
 	
 	public String getHandtypeG(){
-		System.out.println("てすと");
 		return this.G;
 	}
 	public String getHandtypeT(){
